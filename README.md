@@ -19,12 +19,12 @@ Recommendation|	Attraction Suggestion	  |  Content-Based Filtering
 
 
 # How to Run This Project
-Clone this repository
-Install dependencies: pip install -r requirements.txt
-Run the app: streamlit run app.py
+1.Clone this repository
+2.Install dependencies: pip install -r requirements.txt
+3.Run the app: streamlit run app.py
 
 # Projects Highlights
-Multi-Model integration
-Feature Engineering for behavioral insights
-Content-based recommendation system
-Real-time deployment project structure
+* Multi-Model integration
+* Feature Engineering for behavioral insights
+* Content-based recommendation system
+* Real-time deployment project structure
