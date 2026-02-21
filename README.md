@@ -19,9 +19,9 @@ Recommendation|	Attraction Suggestion	  |  Content-Based Filtering
 
 
 # How to Run This Project
-*.Clone this repository
-*.Install dependencies: pip install -r requirements.txt
-*.Run the app: streamlit run app.py
+* Clone this repository
+* Install dependencies: pip install -r requirements.txt
+* Run the app: streamlit run app.py
 
 # Projects Highlights
 * Multi-Model integration
